@@ -1,0 +1,299 @@
+2021-05-13 16:06:01,758 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:07:02,210 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:10:09,726 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:10:20,692 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:10:36,877 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:11:22,954 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:11:34,040 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:11:50,690 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:12:08,131 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:12:30,431 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:13:05,991 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:13:21,205 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-13 16:22:19,527 - WARNING - Not Found: /∑‚√Ê.png
+2021-05-13 16:22:34,348 - WARNING - Not Found: /∑‚√Ê.png
+2021-05-13 16:44:01,185 - WARNING - Not Found: /favicon.ico
+2021-05-18 10:43:46,443 - WARNING - Not Found: /favicon.ico
+2021-05-18 10:43:46,577 - WARNING - Not Found: /favicon.ico
+2021-05-18 14:38:19,257 - WARNING - Not Found: /favicon.ico
+2021-05-18 15:32:57,042 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-18 17:02:52,993 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-18 17:28:23,033 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-18 17:30:01,058 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\KG\CompanyKG\CompRisk\CompRiskSearch\view.py", line 107, in recom_result
+    kg_res = eval(comp_kg(query=query).text)
+  File "<string>", line 1
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+    ^
+SyntaxError: invalid syntax
+2021-05-18 17:39:49,167 - WARNING - Not Found: /favicon.ico
+2021-05-18 17:46:19,597 - WARNING - Not Found: /favicon.ico
+2021-05-18 17:46:59,309 - WARNING - Not Found: /favicon.ico
+2021-05-18 18:16:05,379 - WARNING - Not Found: /favicon.ico
+2021-05-18 20:07:35,628 - WARNING - Not Found: /favicon.ico
+2021-05-19 00:23:00,148 - WARNING - Not Found: /favicon.ico
+2021-05-19 07:08:16,144 - WARNING - Not Found: /favicon.ico
+2021-05-19 12:31:35,246 - WARNING - Not Found: /favicon.ico
+2021-05-19 20:22:16,327 - WARNING - Not Found: /favicon.ico
+2021-05-20 08:12:02,404 - WARNING - Not Found: /favicon.ico
+2021-05-21 16:11:30,764 - WARNING - Not Found: /favicon.ico
+2021-06-17 17:19:31,150 - WARNING - Not Found: /favicon.ico
+2021-06-17 17:31:18,119 - WARNING - Not Found: /chat
+2021-06-19 21:46:50,474 - WARNING - Not Found: /favicon.ico
+2021-06-19 22:11:37,579 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\InfoRetrival\Bert_Faiss\medqa\CompRiskSearch\view.py", line 57, in recom_result
+    simbert_answer = meddict[eval(simbert_res.text)['data'][0][1]]
+KeyError: 'data'
+2021-06-19 22:11:39,350 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\InfoRetrival\Bert_Faiss\medqa\CompRiskSearch\view.py", line 57, in recom_result
+    simbert_answer = meddict[eval(simbert_res.text)['data'][0][1]]
+KeyError: 'data'
+2021-06-19 22:11:40,048 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\InfoRetrival\Bert_Faiss\medqa\CompRiskSearch\view.py", line 57, in recom_result
+    simbert_answer = meddict[eval(simbert_res.text)['data'][0][1]]
+KeyError: 'data'
+2021-06-19 22:11:40,266 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\InfoRetrival\Bert_Faiss\medqa\CompRiskSearch\view.py", line 57, in recom_result
+    simbert_answer = meddict[eval(simbert_res.text)['data'][0][1]]
+KeyError: 'data'
+2021-06-19 22:11:45,927 - ERROR - Internal Server Error: /recom
+Traceback (most recent call last):
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\anaconda\envs\FlyAIenv\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\files\LEARNING&DOING\DOING\InfoRetrival\Bert_Faiss\medqa\CompRiskSearch\view.py", line 57, in recom_result
+    simbert_answer = meddict[eval(simbert_res.text)['data'][0][1]]
+KeyError: 'data'

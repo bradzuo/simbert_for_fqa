@@ -1,0 +1,42 @@
+
+
+<h1>相似文本推荐</h1>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!--<title>风险预警申请</title>-->
+</head>
+  <style type="text/css">
+    body{color:#efd;background:#453;padding:0 5em;margin:0}
+    h1{padding:2em 1em;background:#675}
+    h2{color:#bf8;border-top:1px dotted #fff;margin-top:2em}
+    p{margin:1em 0}
+  </style>
+<body>
+<style>
+    h2 {
+    color:#FFFFFF;
+    }
+    h3 {
+    color:#FF4500;
+    }
+    h4{
+    color:#FF7F50;
+    }
+    h5{
+    color:#FFFFFF;
+    }
+</style>
+    <h3>{{ title }}</h3>
+    <h4>{{ content }}</h4>
+    <h3>---------------------</h3>
+    {% for item in textsimi %}
+    <h5>{{ item }}</h5>
+
+    {% endfor %}
+
+</body>
+</html>
+
