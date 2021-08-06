@@ -1,8 +1,4 @@
 # -*- coding:utf-8 -*-
-import os
-import re
-import json
-import itchat
 from itchat.content import *
 
 from flask import Flask
@@ -10,12 +6,9 @@ from flask import request
 import hashlib
 import receive
 import reply
-import os,sys
-import os, base64
-import requests as req
-from PIL import Image
-from io import BytesIO
-sys.path.append('..')
+import sys
+
+sys.path.append('../..')
 app = Flask(__name__)
 import pickle,requests
 
